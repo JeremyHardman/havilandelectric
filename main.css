@@ -136,13 +136,13 @@ img.profile-pic {
 
 .bg-color-grey {
   background: rgb(2, 0, 36);
-  background: black;
+  background: #ABB2B9;
 }
 
 .bg-color-white {
   height: 100%;
   /*background-color: white;*/
-  background-color: rgb(48, 48, 48);
+  background-color: #17202A;
 }
 
 .text-name {
