@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Briggs;Cliff;;;
-FN: Cliff Briggs 
+N:Haviland;Jesse;;;
+FN: Jesse Haviland
 ORG:CLU Technologies;
-TITLE:Owner CLU Technologies
-EMAIL;type=INTERNET;type=WORK;type=pref:cluetechnologies@gmail.com
-TEL;type=WORK;type=VOICE:8018664270
-item1.ADR;type=WORK;type=pref:;;\nWillard, Utah\,;;;84340;United States
+TITLE:Owner Haviland Electric LLC
+EMAIL;type=INTERNET;type=WORK;type=pref:havilandelectricllc@gmail.com
+TEL;type=WORK;type=VOICE:8015184678
+item1.ADR;type=WORK;type=pref:;;\nMagna, Utah\,;;;84128;United States
 item1.X-ABADR:sg
-item2.URL;type=pref:www.cluetechnologies.com
+item2.URL;type=pref:
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
